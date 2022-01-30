@@ -4,7 +4,7 @@ class Main {
 	public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
 		double principle, rate, time ;
-    	principle=sc.nextDouble();
+    	   principle=sc.nextDouble();
 		rate=sc.nextDouble();
 		time=sc.nextDouble();
 	
